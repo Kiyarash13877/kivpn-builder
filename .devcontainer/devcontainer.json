@@ -5,6 +5,5 @@
             "version": "latest"
         }
     },
-    "postCreateCommand": "chmod +x kk.bash"
+    "postCreateCommand": "chmod +x kk.bash && bash kk.bash"
 }
-
